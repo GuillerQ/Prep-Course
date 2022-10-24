@@ -44,7 +44,7 @@ function resta(x, y) {
   
 }
 
-function multiplica(x, y) {
+function multiplicar(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
   
